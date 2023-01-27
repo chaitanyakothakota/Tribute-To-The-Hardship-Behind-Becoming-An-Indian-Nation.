@@ -1,0 +1,181 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+	<title>Republic Day Celebrations Homes</title>
+</head>
+<style>
+	.divbody{
+		align-items: center;
+		width: 100%;
+		height: auto;
+		background: blanchedalmond;
+	}
+
+	#view1{
+		align-items: center;
+		width: 100%;
+		height: auto;
+		margin: auto;
+		display: inline-blockcenter;
+	}
+	#view2{
+		align-items: center;
+		width: 100%;
+		height: auto;
+		margin: auto;
+		display: inline-blockcenter;
+	}
+
+	.header{
+		width: 1080px;
+		height: 300px;
+		background:linear-gradient(to right bottom,orange ,white,green);
+	}
+	.pbody{
+		width: 1080px;
+		height: auto;
+		background-color: antiquewhite;
+	}
+	b{
+		color: black;
+	}
+	p{
+		font-size: large;
+		color: black;
+	}
+	.Footer{
+		width: 1080px;
+		height: 200px;
+	}
+	#img{
+		width: auto;
+		height: 480px;
+	}
+</style>
+
+<body align="center"><form2>
+	<div id="submenu" class="divbody" align="center">
+		{% block submenu %}
+	<div class="header">
+		<table align="center" cellpadding="0" cellspacing="0">
+			<tbody><tr>
+				<td><br><br><img src="image/o/l2.jfif" aria-colspan="10" width="100%" height="75%" align="center"></td>
+				<td><font color="Black"  style="font-size:1.8em;"><h2>NATIONAL REPUBLIC DAY CELEBRATIONS</h2>
+				<p align="center" style="font-size:25px; font-weight: normal;">Tribte To The Hardship behid becomeing an Indian Nation. </p></td></font>
+			</tr></tbody>
+		</table><br>
+		<table width="100%" style="text-align: center; background-color: green; font-size:20px; font-weight: normal;  margin: 0px;" border="5" ><tr>
+			<td><a href='Home.html'><b>Home</b></a></td>
+			<td><a href='Constitution of India.html'><b>Constitution of India</b></a></td>
+			<td><a href='Indian Legends Tribute.html'><b>Indian Legends Tribute</b></a></td>
+			<td><a href='celebrations.html'><b>Celebrations</b></a></td>
+			<td><a href='Gallery.html'><b>Gallery</b></a></td>
+			<td><a href='About.html'><b>About</b></a></td></tr>
+		</table>
+	</div>
+
+
+<div class="pbody">
+
+	<div class="celebrations"><br><br>
+	<table align="center" border="5" aria-colspan="10" width="100%" style="text-align: center; background-color: orangered;" border="2">
+		<tr align="center" colspan="10">
+			<td><a href="#view1" onclick="document.getElementById('view1').style.display = 'inline-blockcenter'; style.align='center' "><b>FLAG HOSTING CEREMORY</b></a></td>
+			<td><a href="#view2" onclick="document.getElementById('view2').style.display = 'inline-blockcenter'; style.align='center' "><b>PRESIDENT'S ADDRESS</b></a></td>			
+		</tr>
+	</table>
+	<table id="view1" align="center" border="5" aria-colspan="10" width="100%" style="display: 'inline-block';">
+		<tr align="center">
+			<td><a href="./image/o/GIF1.gif"><img src="./image/f/2023.jpg" style="width:300px;height: 200px;"><p align="center" style="font-size:15px; font-weight: bold; margin:0px;">Republic Day-2023</p></td>
+			<td><a href="./image/o/GIF1.gif"><img src="./image/f/2022.jpg" style="width:300px;height: 200px;"><p align="center" style="font-size:15px; font-weight: bold; margin:0px;">Republic Day-2022</p></td>
+			<td><a href="./image/o/GIF1.gif"><img src="./image/f/2021.jpg" style="width:300px;height: 200px;"><p align="center" style="font-size:15px; font-weight: bold; margin:0px;">Republic Day-2021</p></td>
+		</tr>
+		<tr align="center">
+			<td><a href="./image/o/GIF1.gif"><img src="./image/f/2020.jpg" style="width:300px;height: 200px;"><p align="center" style="font-size:15px; font-weight: bold; margin:0px;">Republic Day-2020</p></td>
+			<td><a href="./image/o/GIF1.gif"><img src="./image/f/2019.jpg" style="width:300px;height: 200px;"><p align="center" style="font-size:15px; font-weight: bold; margin:0px;">Republic Day-2019</p></td>
+			<td><a href="./image/o/GIF1.gif"><img src="./image/f/2018.jpg" style="width:300px;height: 200px;"><p align="center" style="font-size:15px; font-weight: bold; margin:0px;">Republic Day-2018</p></td>
+		</tr>
+		<tr align="center">
+			<td><a href="./image/o/GIF1.gif"><img src="./image/f/2017.png" style="width:300px;height: 200px;"><p align="center" style="font-size:15px; font-weight: bold; margin:0px;">Republic Day-2017</p></td>
+			<td><a href="./image/o/GIF1.gif"><img src="./image/f/2016.jpg" style="width:300px;height: 200px;"><p align="center" style="font-size:15px; font-weight: bold; margin:0px;">Republic Day-2016</p></td>
+			<td><a href="./image/o/GIF1.gif"><img src="./image/f/2015.jpg" style="width:300px;height: 200px;"><p align="center" style="font-size:15px; font-weight: bold; margin:0px;">Republic Day-2015</p></td>
+		</tr>
+		<tr align="center">
+			<td><a href="./image/o/GIF1.gif"><img src="./image/f/2014.jpg" style="width:300px;height: 200px;"><p align="center" style="font-size:15px; font-weight: bold; margin:0px;">Republic Day-2014</p></td>
+			<td><a href="./image/o/GIF1.gif"><img src="./image/f/2013.jpg" style="width:300px;height: 200px;"><p align="center" style="font-size:15px; font-weight: bold; margin:0px;">Republic Day-2013</p></td>
+			<td><a href="./image/o/GIF1.gif"><img src="./image/f/2012.jpg" style="width:300px;height: 200px;"><p align="center" style="font-size:15px; font-weight: bold; margin:0px;">Republic Day-2012</p></td>
+		</tr>
+		<tr align="center">
+			<td><a href="./image/o/GIF1.gif"><img src="./image/f/2011.jpg" style="width:300px;height: 200px;"><p align="center" style="font-size:15px; font-weight: bold; margin:0px;">Republic Day-2011</p></td>
+			<td><a href="./image/o/GIF1.gif"><img src="./image/f/2010.jpg" style="width:300px;height: 200px;"><p align="center" style="font-size:15px; font-weight: bold; margin:0px;">Republic Day-2010</p></td>
+			<td><a href="./image/o/GIF1.gif"><img src="./image/f/2009.jpg" style="width:300px;height: 200px;"><p align="center" style="font-size:15px; font-weight: bold; margin:0px;">Republic Day-2009</p></td>
+		</tr>
+		<tr align="center">
+			<td><a href="./image/o/GIF1.gif"><img src="./image/f/2008.jpg" style="width:300px;height: 200px;"><p align="center" style="font-size:15px; font-weight: bold; margin:0px;">Republic Day-2008</p></td>
+			<td><a href="./image/o/GIF1.gif"><img src="./image/f/2007.jpg" style="width:300px;height: 200px;"><p align="center" style="font-size:15px; font-weight: bold; margin:0px;">Republic Day-2007</p></td>
+			<td><a href="./image/o/GIF1.gif"><img src="./image/f/2006.jpg" style="width:300px;height: 200px;"><p align="center" style="font-size:15px; font-weight: bold; margin:0px;">Republic Day-2006</p></td>
+		</tr>
+	</table>
+	<br><br>
+	<table id="view2" align="center" border="5" aria-colspan="10" width="100%" style="display: 'inline-block';">
+		<tr align="center">
+			<td><a href="./image/o/GIF1.gif"><img src="./image/p/2023.jpg" style="width:300px;height: 200px;"><p align="center" style="font-size:15px; font-weight: bold; margin:0px;">Republic Day-2023</p></td>
+			<td><a href="./image/o/GIF1.gif"><img src="./image/p/2022.jpg" style="width:300px;height: 200px;"><p align="center" style="font-size:15px; font-weight: bold; margin:0px;">Republic Day-2022</p></td>
+			<td><a href="./image/o/GIF1.gif"><img src="./image/p/2021.jpg" style="width:300px;height: 200px;"><p align="center" style="font-size:15px; font-weight: bold; margin:0px;">Republic Day-2021</p></td>
+		</tr>
+		<tr align="center">
+			<td><a href="./image/o/GIF1.gif"><img src="./image/p/2020.jpg" style="width:300px;height: 200px;"><p align="center" style="font-size:15px; font-weight: bold; margin:0px;">Republic Day-2020</p></td>
+			<td><a href="./image/o/GIF1.gif"><img src="./image/p/2019.jpg" style="width:300px;height: 200px;"><p align="center" style="font-size:15px; font-weight: bold; margin:0px;">Republic Day-2019</p></td>
+			<td><a href="./image/o/GIF1.gif"><img src="./image/p/2018.jpg" style="width:300px;height: 200px;"><p align="center" style="font-size:15px; font-weight: bold; margin:0px;">Republic Day-2018</p></td>
+		</tr>
+		<tr align="center">
+			<td><a href="./image/o/GIF1.gif"><img src="./image/p/2017.jpg" style="width:300px;height: 200px;"><p align="center" style="font-size:15px; font-weight: bold; margin:0px;">Republic Day-2017</p></td>
+			<td><a href="./image/o/GIF1.gif"><img src="./image/p/2016.jpg" style="width:300px;height: 200px;"><p align="center" style="font-size:15px; font-weight: bold; margin:0px;">Republic Day-2016</p></td>
+			<td><a href="./image/o/GIF1.gif"><img src="./image/p/2015.jpg" style="width:300px;height: 200px;"><p align="center" style="font-size:15px; font-weight: bold; margin:0px;">Republic Day-2015</p></td>
+		</tr>
+		<tr align="center">
+			<td><a href="./image/o/GIF1.gif"><img src="./image/p/2014.jpg" style="width:300px;height: 200px;"><p align="center" style="font-size:15px; font-weight: bold; margin:0px;">Republic Day-2014</p></td>
+			<td><a href="./image/o/GIF1.gif"><img src="./image/p/2013.jpg" style="width:300px;height: 200px;"><p align="center" style="font-size:15px; font-weight: bold; margin:0px;">Republic Day-2013</p></td>
+			<td><a href="./image/o/GIF1.gif"><img src="./image/p/2012.jpg" style="width:300px;height: 200px;"><p align="center" style="font-size:15px; font-weight: bold; margin:0px;">Republic Day-2012</p></td>
+		</tr>
+		<tr align="center">
+			<td><a href="./image/o/GIF1.gif"><img src="./image/p/2011.jpg" style="width:300px;height: 200px;"><p align="center" style="font-size:15px; font-weight: bold; margin:0px;">Republic Day-2011</p></td>
+			<td><a href="./image/o/GIF1.gif"><img src="./image/p/2010.jpg" style="width:300px;height: 200px;"><p align="center" style="font-size:15px; font-weight: bold; margin:0px;">Republic Day-2010</p></td>
+			<td><a href="./image/o/GIF1.gif"><img src="./image/p/2009.jpg" style="width:300px;height: 200px;"><p align="center" style="font-size:15px; font-weight: bold; margin:0px;">Republic Day-2009</p></td>
+		</tr>
+		<tr align="center">
+			<td><a href="./image/o/GIF1.gif"><img src="./image/p/2008.jpg" style="width:300px;height: 200px;"><p align="center" style="font-size:15px; font-weight: bold; margin:0px;">Republic Day-2008</p></td>
+			<td><a href="./image/o/GIF1.gif"><img src="./image/p/2007.jpg" style="width:300px;height: 200px;"><p align="center" style="font-size:15px; font-weight: bold; margin:0px;">Republic Day-2007</p></td>
+			<td><a href="./image/o/GIF1.gif"><img src="./image/p/2006.jpg" style="width:300px;height: 200px;"><p align="center" style="font-size:15px; font-weight: bold; margin:0px;">Republic Day-2006</p></td>
+		</tr>
+	</table>
+	</div>
+</div>
+
+
+
+<div class="Footer" style="margin-bottom:0;background-color:#343a40;">
+	<p align="center" style="margin-bottom:0px;width:100%;line-height:18px;"><br>
+	  <font color="white" style="text-decoration: none; font-size:1em;">Designed, developed and hosted <br>by<br></font><br>
+	  <font color="white"  style="text-decoration: none; font-size:2em;">CHAITANYA KOTHAKOTA</font>
+	  <font color="white" style="text-decoration: none; font-size:0.8em;"><sub>DME,B.Tech</sub></font><br>
+	  <font color="white" style="text-decoration: none; font-size:1.5em;">Python FullStack developer</font><br><br>
+
+	<a href="https://www.facebook.com/chaitanyabalagangadhar.kothakota?mibextid=ZbWKwL"><img src="image/l/facebook.jfif" width="35" height="30" border="2" /></a>
+	<a href="https://api.whatsapp.com/"><img src="image/l/whatsapp.jfif" width="35" height="30" border="2" /></a>
+	<a href="https://t.me/kcbgangadhar"><img src="image/l/telegram.jfif" width="35" height="30" border="2" /></a>
+	<a href="https://twitter.com/KOTHAKOTACHAIT1?t=Y2mBFeJ0vdnQVf2h3XhHiQ&s=09"><img src="image/l/twitter.jfif" width="35" height="30" border="2" /></a>
+	<a href="https://youtube.com/@chaitanyakothakota2140"><img src="image/l/Youtube.jfif" width="35" height="30" border="2" /></a>
+	<a href="https://www.instagram.com/@chaitanya_kothakota./"><img src="image/l/Instagram.jfif" width="35" height="30" border="2" /></a>
+	<a href="https://www.linkedin.com/in/chaitanya-kothakota-3a22661a1"><img src="image/l/LinkedIn.jfif" width="35" height="30" border="2" /></a>
+	<a href="https://github.com/kcbgangadhar"><img src="image/l/Github.jfif" width="35" height="30" border="2" /></a>
+	<a href="mailto:kcbgangadhar@gmail.com"><img src="image/l/Mail.jfif" width="35" height="30" border="2" /></a>
+	  <br><br><br>
+	</p>
+  </div>
+  {% endblock %}
+</div></form2></body>
+</html>
